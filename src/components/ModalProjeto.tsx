@@ -38,6 +38,7 @@ export function ModalProjeto({ projeto, onClose }: ModalProjetoProps) {
                 className="rounded-full border border-musgo/[0.16] bg-white/[0.84] px-4 py-2 text-sm font-semibold text-tronco transition hover:border-musgo/[0.3] hover:bg-white/[0.96]"
               >
                 Fechar
+                
               </button>
             </div>
 
