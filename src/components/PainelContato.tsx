@@ -28,6 +28,7 @@ export function PainelContato() {
       className="conteudo-translucido rounded-[24px] border border-musgo/[0.12] px-6 py-7 sm:px-8"
     >
       <div className="grid gap-8 lg:grid-cols-[0.9fr_1.1fr] lg:items-end">
+        
         <div>
           <p className="rotulo">Contato</p>
           <h3 className="titulo-display mt-4 text-4xl text-tronco sm:text-5xl">
